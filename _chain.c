@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * check_chain - test if current char in buffer is a chain delimeter
+ * check_chain - chechs buffer
  * @info: the parameter struct
  * @buffer: the char buffer
  * @point: address of current position in buf
